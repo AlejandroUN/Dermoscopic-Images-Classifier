@@ -3,7 +3,12 @@
 This project aims to classify images of skin lesions into 8 categories using a variety of machine learning models, including convolutional neural networks (CNNs) and traditional methods like Support Vector Machines (SVM). The dataset consists of dermoscopic images and metadata (age, sex, lesion location) that are used to train and evaluate the models.
 
 If you want to know more about this project you could take a look at the final report here: [**Final Report**](https://github.com/AlejandroUN/Dermoscopic-Images-Classifier/blob/main/Projet_IMA205_CHAVEZ_Cristian%20(1).pdf)
-![image](https://raw.githubusercontent.com/AlejandroUN/Dermoscopic-Images-Classifier/refs/heads/main/example.png)
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlejandroUN/Dermoscopic-Images-Classifier/refs/heads/main/example.png" alt="image"/>
+</p>
+
 
 ## Table of Contents
 - [Overview](#overview)
